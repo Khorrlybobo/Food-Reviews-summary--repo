@@ -1,1 +1,3 @@
 # Food-Reviews-summary--repo
+This project leverages data science and machine learning techniques to extract key information from restaurant reviews and generate a concise summary of customer sentiment. By analyzing large datasets of text reviews, it’s algorithm identifies common themes and sentiment patterns, allowing restaurant owners to quickly understand customer feedback and make data-driven decisions to improve their business. this code is built using Python and utilizes popular libraries such as NLTK and scikit-learn for natural language processing and machine learning tasks. With my innovative approach to restaurant review analysis, I aim to help businesses improve customer satisfaction and enhance their overall performance.
+
